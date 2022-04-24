@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # RemObjects Fire
 Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "OSMLibrary", "OSMLibrary.elements", "{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}"
 EndProject
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "OSMLibraryTests", "OSMLibraryTests.elements", "{3009E023-3C0A-4E7D-B4B8-B4C199AE9837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AnyCPU = Debug|AnyCPU
@@ -13,6 +15,10 @@ Global
 		{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
 		{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
 		{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{3009E023-3C0A-4E7D-B4B8-B4C199AE9837}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{3009E023-3C0A-4E7D-B4B8-B4C199AE9837}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{3009E023-3C0A-4E7D-B4B8-B4C199AE9837}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{3009E023-3C0A-4E7D-B4B8-B4C199AE9837}.Release|AnyCPU.Build.0 = Release|AnyCPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
