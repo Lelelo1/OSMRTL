@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "OSMLibrary", "OSMLibrary.elements", "{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{D4CD98EB-8391-4C3D-8F88-A0F9F5B3F291}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
