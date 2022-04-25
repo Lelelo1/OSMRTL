@@ -48,6 +48,11 @@
     <Reference Include="Echoes">
       <Private>True</Private>
     </Reference>
+    <ProjectReference Include="Library.elements">
+      <Project>{1DE4EF29-3B32-49E7-BE89-72FA127AA3F2}</Project>
+      <ProjectFile>Library.elements</ProjectFile>
+      <Private>True</Private>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.pas" />

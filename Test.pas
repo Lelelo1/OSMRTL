@@ -12,6 +12,7 @@ implementation
   method Test.print();
   begin
     writeLn("running OSMLibraryTests...");
+
   end;
 end.
 
